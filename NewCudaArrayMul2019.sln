@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NewCudaArrayMul2019", "NewCudaArrayMul2019.vcxproj", "{49D3F54A-B7EE-4691-951A-017997E12922}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49D3F54A-B7EE-4691-951A-017997E12922}.Debug|x64.ActiveCfg = Debug|x64
+		{49D3F54A-B7EE-4691-951A-017997E12922}.Debug|x64.Build.0 = Debug|x64
+		{49D3F54A-B7EE-4691-951A-017997E12922}.Release|x64.ActiveCfg = Release|x64
+		{49D3F54A-B7EE-4691-951A-017997E12922}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C14F649-FBCC-4F39-95C6-6B65C06AEF05}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,2 @@
+C:\MJB\CS575\NewCudaArrayMul2019\x64\Debug\NewCudaArrayMul2019.exe
+C:\MJB\CS575\NewCudaArrayMul2019\x64\Debug\NewCudaArrayMul2019.pdb
